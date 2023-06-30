@@ -1,7 +1,5 @@
 # HybriSE Compiler
 
-![HybriSE Logo](resources/logo.png)
-
 The HybriSE Compiler is a powerful tool for compiling programs in various programming languages. Based on the reduced architecture of JarCEAM 8.2, this compiler offers a flexible and modular platform, with powerful optimization techniques for an efficient and streamlined compilation process.
 
 ## Screenshots
